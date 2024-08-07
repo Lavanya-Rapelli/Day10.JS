@@ -12,3 +12,4 @@ function pyramidPattern(size) {
 }
 
 pyramidPattern(6);
+

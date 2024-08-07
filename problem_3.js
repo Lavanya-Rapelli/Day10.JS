@@ -61,3 +61,4 @@ function printDiamond(size) {
 const size = 5; // Change this value to test with different sizes
 
 printDiamond(size);
+
